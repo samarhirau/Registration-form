@@ -1,0 +1,9 @@
+* {
+  background-color: azure;
+  font-family: "Montserrat", sans-serif;
+}
+input[type="submit"],
+input[type="reset"] {
+  background-color: darkblue;
+  color: aliceblue;
+}
